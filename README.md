@@ -1,4 +1,4 @@
-# Lite3 Interactive Follower Robot 🤖
+# Lite3 Interactive Follower Robot 
 
 Sistem kontrol robot cerdas yang menggabungkan pelacakan objek berbasis Computer Vision (YOLOv8 & MediaPipe) dan pengenalan suara mandiri sepenuhnya (Offline Speech Recognition menggunakan Whisper). Sistem ini dirancang untuk berjalan pada sistem operasi Linux (seperti Ubuntu) dan berkomunikasi dengan robot melalui jaringan lokal (UDP).
 
