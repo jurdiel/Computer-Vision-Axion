@@ -77,7 +77,7 @@ Catatan: Anda dapat merujuk pada file `requirements.txt` yang berisi `opencv-pyt
 Jalankan file Python utama menggunakan Virtual Environment Anda.
 
 ```bash
-python main_robot.py
+python Computer_vision_Axion.py
 ```
 
 ### Koneksi Otomatis
